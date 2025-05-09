@@ -39,6 +39,6 @@ Start the development server:
 
 
 Click "Start Quiz"
+```
 
 ### <Happy Coding ! 💻👨‍💻/>
-```

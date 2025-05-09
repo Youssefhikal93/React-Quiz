@@ -118,8 +118,10 @@ function App() {
   useEffect(function () {
     async function getQuestions() {
       try {
-        const res = await fetch("http://localhost:8080/questions");
+        // const res = await fetch("http://localhost:8080/questions");
+        const res = await fetch("https://json-api-49go.onrender.com/questions");
         const data = await res.json();
+
         dispatch({ type: "dataReceived", payload: data });
       } catch (error) {
         console.error(error);

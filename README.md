@@ -1,4 +1,8 @@
+# ❔🤔 Quiz App - React
+
 A responsive quiz application with timer, score tracking, and animations.
+
+### [Live-website](https://react-quiz-app-youssefhikal93.netlify.app/)
 
 ## Features
 
@@ -9,35 +13,32 @@ A responsive quiz application with timer, score tracking, and animations.
 - 📱 Fully responsive
 - 🌓 Dark theme
 
-## Installation
+## 📦 Installation
 
-````bash
+Clone the repository:
+
+```bash
 git clone https://github.com/Youssefhikal93/React-Quiz.git
-cd quiz-app
+```
+
+Navigate to the project directory:
+
+```bash
+cd weather-react-app
+```
+
+Install dependencies:
+
+```bash
 npm install
-npm start
-Usage
+```
+
+Start the development server:
+
+```bash
+
+
 Click "Start Quiz"
 
-Answer questions
-
-View results
-
-Try to test your react knowledge
-
-
-
-To use:
-1. Create new file `README.md`
-2. Copy ALL text above (including the ``` markers)
-3. Paste directly into your file
-4. Replace placeholder links/names
-
-This includes:
-- Minimal formatting
-- Clear sections
-- Code blocks
-- Emoji visuals
-- License notice
-- All in one copy-paste block
-````
+### <Happy Coding ! 💻👨‍💻/>
+```
